@@ -48,9 +48,3 @@
 
 ---
 
-
----
-
-<div align="center">
-<sub>Open to research collabs, SDE/DS internships, and interesting problems. Let's connect.</sub>
-</div>
