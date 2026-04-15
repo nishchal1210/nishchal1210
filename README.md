@@ -1,58 +1,56 @@
-### `$ whoami`
-
-**Nishchal Badaya** · AI & Data Science @ IIT Jodhpur (2023–27) 
-
-```python
-class NishchalBadaya:
-    college  = "IIT Jodhpur — B.Tech AI & Data Science"
-    stack    = ["Python", "C++", "XGBoost", "PyTorch", "Streamlit", "React"]
-    focus    = ["NLP", "Time Series Forecasting", "Graph Algorithms", "LLMs"]
-    research = "Kernelization for NP-hard graph problems · Dr. Lawqueen Kanesh"
-    # Ranked 6th among 23 IITs · Top 0.3% JEE Mains · Top 2.5% JEE Advanced
-```
-
----
-
-
-
-## Achievements
-
-| | |
-|---|---|
-| 🥈 Rank 2 — TECHNEX'25, IIT BHU | Planet Habitability Prediction · 2025 |
-| 🏅 Rank 6 — Inter-IIT Tech Meet | Dream11 Team Predictor · 23 IITs · 2024 |
-| 🎯 JEE Mains AIR 3565 | Top 0.3% nationally · 2023 |
-| 🎯 JEE Advanced AIR 4492 | Top 2.5% nationally · 2023 |
-
----
-
-
-
-## Tech Stack
-
-**Languages** — Python · C++ · Java · SQL · JavaScript
-
-**ML / Data Science** — PyTorch · TensorFlow · Scikit-learn · XGBoost · NLTK · OpenCV · Pandas · NumPy · Matplotlib · Seaborn
-
-**Web & Tools** — React · Node.js · Streamlit · Docker · Git · Linux · LangChain · Ollama · Jupyter · Google Colab
-
-**Databases** — PostgreSQL · MongoDB · MySQL · SQLite · Redis
-
----
-
-## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishchal1210&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555&text_color=555&bg_color=ffffff00" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchal1210&layout=compact&theme=default&hide_border=true&title_color=333&text_color=555&bg_color=ffffff00" height="160" />
+
+# Hey, I'm Nishchal 👋
+
+**AI & Data Science @ IIT Jodhpur** · Building things that think
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchal-badaya-2899a328a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nishchalbadaya@gmail.com)
+
+
 </div>
 
 ---
 
-## Coursework
+### 🧠 About Me
 
-Artificial Intelligence · Pattern Recognition & ML · Optimizations in ML · Data Engineering · Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · Computer Architecture · Linear Algebra · Probability & Statistics
+- 🎓 B.Tech in **AI & Data Science** at **IIT Jodhpur** (2023–27)
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**ML / Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web & Tools**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
-**Connect:** [nishchalbadaya@gmail.com](mailto:nishchalbadaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nishchal-badaya-2899a328a/) · [GitHub](https://github.com/nishchal1210)
+
+---
+
+<div align="center">
+<sub>Open to research collabs, SDE/DS internships, and interesting problems. Let's connect.</sub>
+</div>
