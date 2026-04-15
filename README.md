@@ -13,25 +13,7 @@ class NishchalBadaya:
 
 ---
 
-## Projects
 
-### [Market Sentiment Analysis](https://github.com/nishchal1210/Market-Sentiment-Analysis)
-Built a Word2Vec pipeline generating 500-dim embeddings from 10k+ financial headlines. Applied EWMA smoothing and integrated signals into SARIMAX — reduced MAE by **12%** vs non-sentiment baselines.  
-`Python` `Streamlit` `Word2Vec` `TFIDF` `SARIMAX`
-
-### [Dream11 Dream Team Predictor](https://github.com/nishchal1210/Dream11_Dream_Team_Prediction)
-120-feature XGBoost model trained on 45k+ CricSheet ball-by-ball records. MAE of 390 on Dream11 scoring. Explainability via SHAP + Gemini API. **Ranked 6th at Inter-IIT (23 IITs).**  
-`Python` `XGBoost` `SHAP` `Gemini API` `Streamlit`
-
-### [Optimized Ride Scheduler](https://github.com/nishchal1210/Ride_Sharing_Algo_Project)
-Real-time driver-passenger matching in C++ using A\* search with a min-heap priority queue. Full-stack web UI for routing visualization and fare estimation.  
-`C++` `Python` `A* Search` `HTML/CSS` `JavaScript`
-
-### [Planet Habitability Index Prediction](https://github.com/nishchal1210/Planet_Habitability_Index_Prediction)
-ML model for predicting planetary habitability. **Ranked 2nd at TECHNEX'25 @ IIT BHU.**  
-`Python` `Scikit-learn` `Jupyter Notebook`
-
----
 
 ## Achievements
 
@@ -44,13 +26,7 @@ ML model for predicting planetary habitability. **Ranked 2nd at TECHNEX'25 @ IIT
 
 ---
 
-## Research
 
-**Undergraduate Researcher** · Dr. Lawqueen Kanesh, IIT Jodhpur · `Apr–Jun 2024`
-
-Investigated kernelization techniques for 4+ NP-hard graph problems. Achieved up to **65% average input size reduction** under bounded parameter settings across 100+ synthetic and real-world graph instances. Findings contributed to a technical report aimed at future publication.
-
----
 
 ## Tech Stack
 
@@ -79,4 +55,4 @@ Artificial Intelligence · Pattern Recognition & ML · Optimizations in ML · Da
 
 ---
 
-**Connect:** [nishchalbadaya@gmail.com](mailto:nishchalbadaya@gmail.com) · [LinkedIn](https://linkedin.com/in/nishchal-badaya) · [GitHub](https://github.com/nishchal1210)
+**Connect:** [nishchalbadaya@gmail.com](mailto:nishchalbadaya@gmail.com) · [LinkedIn]([https://linkedin.com/in/nishchal-badaya](https://www.linkedin.com/in/nishchal-badaya-2899a328a/)) · [GitHub](https://github.com/nishchal1210)
