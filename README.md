@@ -1,6 +1,6 @@
 ### `$ whoami`
 
-**Nishchal Badaya** · AI & Data Science @ IIT Jodhpur (2023–27) · CGPA 7.85
+**Nishchal Badaya** · AI & Data Science @ IIT Jodhpur (2023–27) 
 
 ```python
 class NishchalBadaya:
@@ -55,4 +55,4 @@ Artificial Intelligence · Pattern Recognition & ML · Optimizations in ML · Da
 
 ---
 
-**Connect:** [nishchalbadaya@gmail.com](mailto:nishchalbadaya@gmail.com) · [LinkedIn]([https://linkedin.com/in/nishchal-badaya](https://www.linkedin.com/in/nishchal-badaya-2899a328a/)) · [GitHub](https://github.com/nishchal1210)
+**Connect:** [nishchalbadaya@gmail.com](mailto:nishchalbadaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nishchal-badaya-2899a328a/) · [GitHub](https://github.com/nishchal1210)
